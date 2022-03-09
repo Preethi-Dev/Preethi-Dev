@@ -10,6 +10,17 @@
 - 📫 I'm active on [Twitter](https://twitter.com/Preethi39195942)
 - ⚡ Secret fact: I'm Coffee lover🍵
 
+## Depth in Techs👩🏻‍💻
+<p align="center">
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-F43059?logo=css3&logoColor=white&style=for-the-badge" />
+<img alt="Material Design" src="https://img.shields.io/badge/-MaterailizeCSS-F6A1AC?logo=material-design&logoColor=white&style=for-the-badge" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=Tailwind-CSS&logoColor=white&style=for-the-badge" />
+<img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
+
 ## Top Repositories
 
 | <a href="https://github.com/Preethi-Dev/Claymorphism"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Claymorphism&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/dark_mode"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=dark_mode&theme=radical"/></a> |
