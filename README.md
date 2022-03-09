@@ -30,8 +30,8 @@
 </details>
 
 <!--START_SECTION:activity-->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Preethi-Dev&show_icons=true&theme=radical"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethi-Dev&layout=compact&theme=radical"> |
-| :---: | :---: |
+1. 🎉 Merged PR [#1](https://github.com/Preethi-Dev/demo/pull/1) in [Preethi-Dev/demo](https://github.com/Preethi-Dev/demo)
+2. 💪 Opened PR [#1](https://github.com/Preethi-Dev/demo/pull/1) in [Preethi-Dev/demo](https://github.com/Preethi-Dev/demo)
 <!--END_SECTION:activity-->
 
 ### ⚡Recent Activities
