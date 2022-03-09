@@ -1,7 +1,8 @@
 <p align="center"><a href="https://github.com/Preethi-Dev"><img width="100%" src="./assets/preethi__banner.jpg" /></a></p>
 
-<h1 align="center">Hey There 👋</h1>
-
+<h1 align="center">Hey There 👋</h1> 
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Preethi-Dev" alt="visitor badge"/></p>
+ 
 - 🔭 I’m currently working on **Modern layouts**
 - 🌱 I’m currently learning **In-Depth Git underhoods**
 - 🤔 I’m looking for help with ...
