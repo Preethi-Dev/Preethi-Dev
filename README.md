@@ -5,7 +5,7 @@
  
 - 🔭 I’m currently working on **Modern layouts**
 - 🌱 I’m currently learning **In-Depth Git underhoods**
-- 🤔 I’m looking for help with ...
+- 🖊️ All the time, I’m writing **technical blogs**
 - 💬 Ask me about **In-Depth CSS**
 - 📫 I'm active on [Twitter](https://twitter.com/Preethi39195942)
 - ⚡ Secret fact: I'm Coffee lover🍵
