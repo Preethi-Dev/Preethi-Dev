@@ -60,8 +60,8 @@
 
 ## ⚡Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3692](https://github.com/EddieHubCommunity/support/issues/3692) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#1](https://github.com/Preethi-Dev/demo/pull/1) in [Preethi-Dev/demo](https://github.com/Preethi-Dev/demo)
+1. ❗️ Opened issue [#3693](https://github.com/EddieHubCommunity/support/issues/3693) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#3692](https://github.com/EddieHubCommunity/support/issues/3692) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 <p align="center">
