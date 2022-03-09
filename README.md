@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Preethi-Dev"><img width="100%" src="./assets/preethi__banner.jpg" /></a></p>
 
-<h1 align="center">Hey There 👋</h1> 
+<h1 align="center">Hey There <img src="./assets/wave.gif" width="50px" alt="wave gif"></h1> 
 <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=Preethi-Dev" alt="visitor badge"/>
  <img src="https://img.shields.io/github/commit-activity/m/Preethi-Dev/Preethi-Dev?color=green" alt="commit activity">
@@ -26,11 +26,15 @@
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 </p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=Preethi-Dev&theme=xcode">
+
 ## Top Repositories
 
 | <a href="https://github.com/Preethi-Dev/Claymorphism"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Claymorphism&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/dark_mode"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=dark_mode&theme=radical"/></a> |
 | :--: | :---: |
 
+## Recently Started🖊️..
+<p align="center"><a href="https://github.com/Preethi-Dev"><img width="100%" src="./assets/freecodecamp.jpg" /></a></p>
 
 ## My Popular Articles
 | 12 Types of Advanced CSS Selectors!!  <br/><a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d">**Read Now👉🏻**</a> | <a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d"><img src="./assets/blog1.png" /></a> |
@@ -48,6 +52,7 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Preethi-Dev&show_icons=true&theme=radical"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preethi-Dev&theme=dark"> |
 | :---: | :---: |
+
 
 ## Oftentimes Languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethi-Dev&layout=compact&theme=radical">
