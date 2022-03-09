@@ -10,10 +10,10 @@
 - ⚡ Secret fact: I'm Coffee lover🍵
 
 ### Top Repositories
-
+<!--START_SECTION:activity-->
 | <a href="https://github.com/Preethi-Dev/Claymorphism"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Claymorphism&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/dark_mode"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=dark_mode&theme=radical"/></a> |
 | :--: | :---: |
-
+<!--END_SECTION:activity-->
 ### My Popular Articles
 | 12 Types of Advanced CSS Selectors!!  <br/><a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d">**Read Now👉🏻**</a> | <a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d"><img src="./assets/blog1.png" /></a> |
 | :-- | :---: |
@@ -28,9 +28,10 @@
 <h3> <a href="https://dev.to/preethi_dev/cosmic-burden-behind-the-title-winning-of-my-1st-hackathon-51ab">See How I won 👉</a></h3>
 </details>
 
+<!--START_SECTION:activity-->
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Preethi-Dev&show_icons=true&theme=radical"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethi-Dev&layout=compact&theme=radical"> |
 | :---: | :---: |
-
+<!--END_SECTION:activity-->
 
 
 <p align="center">
