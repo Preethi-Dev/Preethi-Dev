@@ -10,10 +10,11 @@
 - ⚡ Secret fact: I'm Coffee lover🍵
 
 ### Top Repositories
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Preethi-Dev/demo/pull/1) in [Preethi-Dev/demo](https://github.com/Preethi-Dev/demo)
-2. 💪 Opened PR [#1](https://github.com/Preethi-Dev/demo/pull/1) in [Preethi-Dev/demo](https://github.com/Preethi-Dev/demo)
-<!--END_SECTION:activity-->
+
+| <a href="https://github.com/Preethi-Dev/Claymorphism"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Claymorphism&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/dark_mode"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=dark_mode&theme=radical"/></a> |
+| :--: | :---: |
+
+
 ### My Popular Articles
 | 12 Types of Advanced CSS Selectors!!  <br/><a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d">**Read Now👉🏻**</a> | <a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d"><img src="./assets/blog1.png" /></a> |
 | :-- | :---: |
@@ -33,6 +34,11 @@
 | :---: | :---: |
 <!--END_SECTION:activity-->
 
+### ⚡Recent Activities
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Preethi-Dev/demo/pull/1) in [Preethi-Dev/demo](https://github.com/Preethi-Dev/demo)
+2. 💪 Opened PR [#1](https://github.com/Preethi-Dev/demo/pull/1) in [Preethi-Dev/demo](https://github.com/Preethi-Dev/demo)
+<!--END_SECTION:activity-->
 
 <p align="center">
   Feel cheerful to connect with you on 👇🏻
