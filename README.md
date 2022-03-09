@@ -3,9 +3,9 @@
 <h1 align="center">Hey There 👋</h1> 
 <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=Preethi-Dev" alt="visitor badge"/>
- <img src="https://img.shields.io/github/commit-activity/m/Preethi-Dev/demo?color=green" alt="commit activity">
- <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Preethi-Dev/demo/main?color=orange">
- <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/Preethi-Dev/demo">
+ <img src="https://img.shields.io/github/commit-activity/m/Preethi-Dev/Preethi-Dev?color=green" alt="commit activity">
+ <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Preethi-Dev/Preethi-Dev/main?color=orange">
+ <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/Preethi-Dev/Preethi-Dev">
 </p>
  
 - 🔭 I’m currently working on **Modern layouts**
