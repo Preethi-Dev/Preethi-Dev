@@ -20,16 +20,13 @@
 | **A new Two-value syntax for display property🪄** | <a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d"><img src="./assets/blog2.png" /></a> |
 | **For More articles👉🏻** | <a href="https://dev.to/schmelto"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>  |
 
-## How I won in my 1st Hackathon🏆
+<details>
+  <summary><h2> How I won in my 1st Hackathon🏆</h2></summary>
 
-Hey, you seems very curious...
-
+> Hey, you seems very curious...
 <img src="./assets/curious.gif" align="center"/>
-
 <h3> <a href="https://dev.to/preethi_dev/cosmic-burden-behind-the-title-winning-of-my-1st-hackathon-51ab">See How I won 👉</a></h3>
-
-<hr />
-
+</details>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Preethi-Dev&show_icons=true&theme=radical"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethi-Dev&layout=compact&theme=radical"> |
 | :---: | :---: |
