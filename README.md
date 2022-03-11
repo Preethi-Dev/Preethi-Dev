@@ -60,8 +60,8 @@
 
 ## ⚡Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1067](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1067) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Opened issue [#1066](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1066) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#978](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/978) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 💪 Opened PR [#1067](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1067) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <p align="center">
