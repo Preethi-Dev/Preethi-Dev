@@ -62,6 +62,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3692](https://github.com/EddieHubCommunity/support/issues/3692) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. 💪 Opened PR [#978](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/978) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethi-Dev&layout=compact&theme=radical">
 <!--END_SECTION:activity-->
 
 <p align="center">
