@@ -60,9 +60,9 @@
 
 ## ⚡Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Preethi-Dev/demo-tracking-repo/pull/1) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
-2. 🗣 Commented on [#3692](https://github.com/EddieHubCommunity/support/issues/3692) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#978](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/978) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#3](https://github.com/Preethi-Dev/demo-tracking-repo/pull/3) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
+2. 💪 Opened PR [#3](https://github.com/Preethi-Dev/demo-tracking-repo/pull/3) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
+3. 💪 Opened PR [#2](https://github.com/Preethi-Dev/demo-tracking-repo/pull/2) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
 <!--END_SECTION:activity-->
 
 <p align="center">
