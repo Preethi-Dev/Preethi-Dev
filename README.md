@@ -60,9 +60,9 @@
 
 ## ⚡Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/twin-engineers/PR-Practice/pull/2) in [twin-engineers/PR-Practice](https://github.com/twin-engineers/PR-Practice)
-2. 💪 Opened PR [#1](https://github.com/twin-engineers/PR-Practice/pull/1) in [twin-engineers/PR-Practice](https://github.com/twin-engineers/PR-Practice)
-3. 💪 Opened PR [#4](https://github.com/Preethi-Dev/demo-tracking-repo/pull/4) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
+1. ❗️ Opened issue [#192](https://github.com/Design-and-Code/support/issues/192) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
+2. 💪 Opened PR [#2](https://github.com/twin-engineers/PR-Practice/pull/2) in [twin-engineers/PR-Practice](https://github.com/twin-engineers/PR-Practice)
+3. 💪 Opened PR [#1](https://github.com/twin-engineers/PR-Practice/pull/1) in [twin-engineers/PR-Practice](https://github.com/twin-engineers/PR-Practice)
 <!--END_SECTION:activity-->
 
 <p align="center">
