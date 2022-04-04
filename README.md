@@ -60,9 +60,9 @@
 
 ## ⚡Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#192](https://github.com/Design-and-Code/support/issues/192) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
-2. 💪 Opened PR [#2](https://github.com/twin-engineers/PR-Practice/pull/2) in [twin-engineers/PR-Practice](https://github.com/twin-engineers/PR-Practice)
-3. 💪 Opened PR [#1](https://github.com/twin-engineers/PR-Practice/pull/1) in [twin-engineers/PR-Practice](https://github.com/twin-engineers/PR-Practice)
+1. 💪 Opened PR [#58](https://github.com/Design-and-Code/Dope-Github-Readmes/pull/58) in [Design-and-Code/Dope-Github-Readmes](https://github.com/Design-and-Code/Dope-Github-Readmes)
+2. ❗️ Opened issue [#192](https://github.com/Design-and-Code/support/issues/192) in [Design-and-Code/support](https://github.com/Design-and-Code/support)
+3. 💪 Opened PR [#2](https://github.com/twin-engineers/PR-Practice/pull/2) in [twin-engineers/PR-Practice](https://github.com/twin-engineers/PR-Practice)
 <!--END_SECTION:activity-->
 
 <p align="center">
