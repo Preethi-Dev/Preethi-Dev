@@ -60,9 +60,9 @@
 
 ## ⚡Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Preethi-Dev/demo-tracking-repo/pull/3) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
-2. 💪 Opened PR [#3](https://github.com/Preethi-Dev/demo-tracking-repo/pull/3) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
-3. 💪 Opened PR [#2](https://github.com/Preethi-Dev/demo-tracking-repo/pull/2) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
+1. 💪 Opened PR [#4](https://github.com/Preethi-Dev/demo-tracking-repo/pull/4) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
+2. 🎉 Merged PR [#3](https://github.com/Preethi-Dev/demo-tracking-repo/pull/3) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
+3. 💪 Opened PR [#3](https://github.com/Preethi-Dev/demo-tracking-repo/pull/3) in [Preethi-Dev/demo-tracking-repo](https://github.com/Preethi-Dev/demo-tracking-repo)
 <!--END_SECTION:activity-->
 
 <p align="center">
