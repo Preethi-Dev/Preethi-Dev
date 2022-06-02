@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Preethi-Dev"><img width="100%" src="./assets/preethi__banner.jpg" /></a></p>
 
-<h1 align="center">Hey There <img src="./assets/wave.gif" width="50px" alt="wave gif"></h1> 
+<h1 align="center">Hey There👋🏻</h1> 
 <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=Preethi-Dev" alt="visitor badge"/>
  <img src="https://img.shields.io/github/commit-activity/m/Preethi-Dev/Preethi-Dev?color=green" alt="commit activity">
