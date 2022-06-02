@@ -60,9 +60,9 @@
 
 ## ⚡Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15683](https://github.com/mdn/content/pull/15683) in [mdn/content](https://github.com/mdn/content)
-2. ❗️ Closed issue [#3692](https://github.com/EddieHubCommunity/support/issues/3692) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#58](https://github.com/Design-and-Code/Dope-Github-Readmes/pull/58) in [Design-and-Code/Dope-Github-Readmes](https://github.com/Design-and-Code/Dope-Github-Readmes)
+1. 💪 Opened PR [#16880](https://github.com/mdn/content/pull/16880) in [mdn/content](https://github.com/mdn/content)
+2. 💪 Opened PR [#15683](https://github.com/mdn/content/pull/15683) in [mdn/content](https://github.com/mdn/content)
+3. ❗️ Closed issue [#3692](https://github.com/EddieHubCommunity/support/issues/3692) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 <p align="center">
