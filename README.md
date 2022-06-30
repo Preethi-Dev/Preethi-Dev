@@ -2,45 +2,36 @@
 
 <h1 align="center">Hey There👋🏻</h1> 
 <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=Preethi-Dev" alt="visitor badge"/>
  <img src="https://img.shields.io/github/commit-activity/m/Preethi-Dev/Preethi-Dev?color=green" alt="commit activity">
  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Preethi-Dev/Preethi-Dev/main?color=orange">
  <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/Preethi-Dev/Preethi-Dev">
 </p>
  
-- 🔭 I’m currently working on **Modern layouts**
-- 🌱 I’m currently learning **In-Depth Git underhoods**
-- 🖊️ All the time, I’m writing **technical blogs**
-- 💬 Ask me about **In-Depth CSS**
-- 📫 I'm active on [Twitter](https://twitter.com/Preethi39195942)
-- ⚡ Secret fact: I'm Coffee lover🍵
-
-## Depth in Techs👩🏻‍💻
-<p align="center">
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-F43059?logo=css3&logoColor=white&style=for-the-badge" />
-<img alt="Material Design" src="https://img.shields.io/badge/-MaterailizeCSS-F6A1AC?logo=material-design&logoColor=white&style=for-the-badge" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=Tailwind-CSS&logoColor=white&style=for-the-badge" />
-<img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+ <p align="center">
+ 🔭 I’m currently working on <b>Modern layouts</b><br>
+ 💬 Ask me about "In-Depth CSS"<br>
 </p>
+
+## ⚡Recent Activities
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#17400](https://github.com/mdn/content/pull/17400) in [mdn/content](https://github.com/mdn/content)
+2. 💪 Opened PR [#16880](https://github.com/mdn/content/pull/16880) in [mdn/content](https://github.com/mdn/content)
+3. 💪 Opened PR [#15683](https://github.com/mdn/content/pull/15683) in [mdn/content](https://github.com/mdn/content)
+<!--END_SECTION:activity-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Preethi-Dev&theme=xcode">
 
 ## Top Repositories
 
-| <a href="https://github.com/Preethi-Dev/Claymorphism"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Claymorphism&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/dark_mode"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=dark_mode&theme=radical"/></a> |
+| <a href="https://github.com/Preethi-Dev/Modern-Layout-01"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Modern-Layout-01&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/Modern-Layout-02"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Modern-Layout-02&theme=radical"/></a> |
 | :--: | :---: |
 
-## Recently Started🖊️..
-<p align="center"><a href="https://github.com/Preethi-Dev"><img width="100%" src="./assets/freecodecamp.jpg" /></a></p>
-
 ## My Popular Articles
+
 | 12 Types of Advanced CSS Selectors!!  <br/><a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d">**Read Now👉🏻**</a> | <a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d"><img src="./assets/blog1.png" /></a> |
 | :-- | :---: |
 | **A new Two-value syntax for display property🪄** <br/><a href="https://dev.to/preethi_dev/a-new-two-value-syntax-for-display-property-1p1e">**Read Now👉🏻**</a> | <a href="https://dev.to/preethi_dev/a-new-two-value-syntax-for-display-property-1p1e"><img src="./assets/blog2.png" /></a> |
-| **For More articles👉🏻** | <a href="https://dev.to/preethi_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>  |
+| **For More articles👉🏻** | <a href="https://www.freecodecamp.org/news/author/preethi-dev/"><img src="https://img.shields.io/badge/freecodecamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white"></a> <a href="https://dev.to/preethi_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> |
 
 <details>
   <summary><h2> How I won in my 1st Hackathon🏆</h2></summary>
@@ -54,16 +45,10 @@
 | :---: | :---: |
 
 
-## Oftentimes Languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethi-Dev&layout=compact&theme=radical">
 
 
-## ⚡Recent Activities
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#17400](https://github.com/mdn/content/pull/17400) in [mdn/content](https://github.com/mdn/content)
-2. 💪 Opened PR [#16880](https://github.com/mdn/content/pull/16880) in [mdn/content](https://github.com/mdn/content)
-3. 💪 Opened PR [#15683](https://github.com/mdn/content/pull/15683) in [mdn/content](https://github.com/mdn/content)
-<!--END_SECTION:activity-->
+
+
 
 <p align="center">
   Feel cheerful to connect with you on 👇🏻
