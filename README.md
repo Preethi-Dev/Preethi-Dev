@@ -12,13 +12,6 @@
  💬 Ask me about "In-Depth CSS"<br>
 </p>
 
-## ⚡Recent Activities
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#17400](https://github.com/mdn/content/pull/17400) in [mdn/content](https://github.com/mdn/content)
-2. 💪 Opened PR [#16880](https://github.com/mdn/content/pull/16880) in [mdn/content](https://github.com/mdn/content)
-3. 💪 Opened PR [#15683](https://github.com/mdn/content/pull/15683) in [mdn/content](https://github.com/mdn/content)
-<!--END_SECTION:activity-->
-
 <img src="https://activity-graph.herokuapp.com/graph?username=Preethi-Dev&theme=xcode">
 
 ## Top Repositories
