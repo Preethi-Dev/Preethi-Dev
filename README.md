@@ -21,7 +21,7 @@
 
 ## My Popular Articles
 
-| 12 Types of Advanced CSS Selectors!! <br/><a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d">**Read Now👉🏻**</a>                |                                                                                                        <a href="https://dev.to/preethi_dev/12-types-of-advanced-css-selectors-part-1-5b3d"><img src="./assets/blog1.png" /></a>                                                                                                        |
+| 25 Extremely Modern Layouts Using CSS Grid✨ <br/><a href="https://dev.to/preethi_dev/25-extremely-modern-layouts-using-css-grid-10ek">**Read Now👉🏻**</a>       |                                                                                                 <a href="https://dev.to/preethi_dev/25-extremely-modern-layouts-using-css-grid-10ek"><img src="./assets/ThumBlog thumbnail.jpg" /></a>                                                                                                 |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **A new Two-value syntax for display property🪄** <br/><a href="https://dev.to/preethi_dev/a-new-two-value-syntax-for-display-property-1p1e">**Read Now👉🏻**</a> |                                                                                                       <a href="https://dev.to/preethi_dev/a-new-two-value-syntax-for-display-property-1p1e"><img src="./assets/blog2.png" /></a>                                                                                                       |
 | **For More articles👉🏻**                                                                                                                                         | <a href="https://www.freecodecamp.org/news/author/preethi-dev/"><img src="https://img.shields.io/badge/freecodecamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white"></a> <a href="https://dev.to/preethi_dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> |
@@ -29,8 +29,7 @@
 <details>
   <summary><h2> How I won in my 1st Hackathon🏆</h2></summary>
 
-> Hey, you seems very curious...<a href="https://dev.to/preethi_dev/cosmic-burden-behind-the-title-winning-of-my-1st-hackathon-51ab">See How I won 👉</a>
-> <img src="./assets/curious.gif" align="center"/>
+> Hey, you seems very curious...<a href="https://dev.to/preethi_dev/cosmic-burden-behind-the-title-winning-of-my-1st-hackathon-51ab">See How I won 👉</a> > <img src="./assets/curious.gif" align="center"/>
 
 </details>
 
