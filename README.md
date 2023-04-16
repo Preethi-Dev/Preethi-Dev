@@ -12,8 +12,6 @@
  💬 Ask me about "In-Depth CSS"<br>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Preethi-Dev&theme=xcode">
-
 ## Top Repositories
 
 | <a href="https://github.com/Preethi-Dev/Modern-Layout-01"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Modern-Layout-01&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/Modern-Layout-02"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Modern-Layout-02&theme=radical"/></a> |
