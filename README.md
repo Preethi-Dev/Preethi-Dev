@@ -1,11 +1,11 @@
 <p align="center"><a href="https://github.com/Preethi-Dev"><img width="100%" src="https://preethi-dev.github.io/Preethi-Dev/assets/preethi__banner.jpg" /></a></p>
 
 <h1 align="center">Hey There👋🏻</h1> 
-<p align="center">
+<!-- <p align="center">
  <img src="https://img.shields.io/github/commit-activity/m/Preethi-Dev/Preethi-Dev?color=green" alt="commit activity">
  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Preethi-Dev/Preethi-Dev/main?color=orange">
  <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/Preethi-Dev/Preethi-Dev">
-</p>
+</p> -->
  
  <p align="center">
  🔭 I’m currently working on <b>Modern layouts</b><br>
