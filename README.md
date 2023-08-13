@@ -9,7 +9,7 @@
  
  <p align="center">
  🔭 I’m currently working on <b>Modern layouts</b><br>
- 💬 Ask me about "In-Depth CSS"<br>
+ 💬 Ask me about "In-Depth CSS and JS"<br>
 </p>
 
 ## Top Repositories
