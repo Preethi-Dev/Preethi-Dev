@@ -14,7 +14,7 @@
 
 ## Top Repositories
 
-| <a href="https://github.com/Preethi-Dev/Modern-Layout-01"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Modern-Layout-01&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/Modern-Layout-02"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=Modern-Layout-02&theme=radical"/></a> |
+| <a href="https://github.com/Preethi-Dev/legooo-design-system"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=legooo-design-system&theme=radical"/></a> | <a href="https://github.com/Preethi-Dev/modern-layouts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Preethi-Dev&repo=modern-layouts&theme=radical"/></a> |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## My Popular Articles
